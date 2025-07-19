@@ -10,11 +10,7 @@
 
 I'm Caleb! You can find different completed projects and those in the works too.
 
-I mainly like developing backend-related projects (and sometimes full-stack too!). I am also interested in learning about computer graphics and computer vision.
-
-You can also check out the following groups for some group projects I contributed in:
-* [HackthonGang](https://github.com/HackthonGang)
-* [Resumeholic](https://github.com/Resumeholic)
+I mainly like developing backend-related projects (and sometimes full-stack too!). I am also interested in learning about cloud services and machine learning.
 
 Enjoy your time here. 😄
 
